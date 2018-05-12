@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41247'
     url: http://www.gutenberg.org/2009/agents/41247
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41588#Europe-from-a-Motor-Car
 gutenberg_issued: '2012-12-09'
 gutenberg_type: Text
 identifiers:
